@@ -1,0 +1,1 @@
+[{"driver":"Jose Ernesto Magallanes Garcia","address":"Callee 1ra entre calle 2 y calle 3","ss":22.5},{"driver":"Yordanys Albelo Talavera","address":"Calle c entre primera y capitan calderin","ss":13.5},{"driver":"Andres Garcia Perez","address":"Antonio Maceo entre jose andres y calle 4","ss":10.5},{"driver":"Maldonado Perez","address":"Antonio Maceo entre jose andres","ss":8}]
